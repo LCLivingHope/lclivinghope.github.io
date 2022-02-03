@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Living Hope Ministry</title>
-    <link>https://lclivinghope.github.io/</link>
+    <link>https://lclivinghope.com/</link>
     <description>Recent content on Living Hope Ministry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 21:08:01 +1000</lastBuildDate><atom:link href="https://lclivinghope.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 21:08:01 +1000</lastBuildDate><atom:link href="https://lclivinghope.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://lclivinghope.github.io/posts/hello-world/</link>
+      <link>https://lclivinghope.com/posts/hello-world/</link>
       <pubDate>Thu, 03 Feb 2022 21:08:01 +1000</pubDate>
       
-      <guid>https://lclivinghope.github.io/posts/hello-world/</guid>
+      <guid>https://lclivinghope.com/posts/hello-world/</guid>
       <description>Just saying hi!</description>
     </item>
     
     <item>
       <title>John Calvin: Institutes 2 11</title>
-      <link>https://lclivinghope.github.io/sermons/institutes-2-11/</link>
+      <link>https://lclivinghope.com/sermons/institutes-2-11/</link>
       <pubDate>Thu, 03 Feb 2022 20:12:30 +1000</pubDate>
       
-      <guid>https://lclivinghope.github.io/sermons/institutes-2-11/</guid>
+      <guid>https://lclivinghope.com/sermons/institutes-2-11/</guid>
       <description>Public Domain recording from librivox</description>
     </item>
     
     <item>
       <title>Leaders</title>
-      <link>https://lclivinghope.github.io/leaders/</link>
+      <link>https://lclivinghope.com/leaders/</link>
       <pubDate>Thu, 03 Feb 2022 14:27:13 +1000</pubDate>
       
-      <guid>https://lclivinghope.github.io/leaders/</guid>
+      <guid>https://lclivinghope.com/leaders/</guid>
       <description>This is a page about leaders </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://lclivinghope.github.io/contact/</link>
+      <link>https://lclivinghope.com/contact/</link>
       <pubDate>Thu, 03 Feb 2022 13:49:50 +1000</pubDate>
       
-      <guid>https://lclivinghope.github.io/contact/</guid>
+      <guid>https://lclivinghope.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thanks for Contacting Us</title>
-      <link>https://lclivinghope.github.io/contact_thanks/</link>
+      <link>https://lclivinghope.com/contact_thanks/</link>
       <pubDate>Thu, 03 Feb 2022 13:38:38 +1000</pubDate>
       
-      <guid>https://lclivinghope.github.io/contact_thanks/</guid>
+      <guid>https://lclivinghope.com/contact_thanks/</guid>
       <description>Thanks for touching base with us. Someone from Alpha Church will be in touch soon.</description>
     </item>
     
